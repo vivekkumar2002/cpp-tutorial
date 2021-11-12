@@ -6,7 +6,7 @@ class employee
          int a,b,c;
     public:
         int d,e;
-        void setData(int a,int b,int c);
+        void setData(int a1,int b1,int c1);//deceleration
         void getData(){
             cout<< "the value of a is "<<a<<endl;
             cout<<"the value of b is "<<b<<endl;
