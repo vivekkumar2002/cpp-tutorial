@@ -6,7 +6,7 @@ int main(){
         cout<<"we are at index number "<< index << endl;
         index = index +1;
 
-    }while(index<3456);
+    }while(index>34);
 
     return 0;
 

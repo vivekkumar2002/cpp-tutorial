@@ -21,8 +21,8 @@ int main(){
     cout<<"the id of student is " <<s1.id<<endl;
     cout<<"the marks of student is "<<s1.marks<<endl;
 
-    
 
+    
     
     return 0;
 }
