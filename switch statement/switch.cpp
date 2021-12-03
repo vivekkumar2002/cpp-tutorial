@@ -9,10 +9,10 @@ int main()
     switch (age)
     {
     case 12:
-        cout << "you are 12 years old"<<endl;
+        cout << "you are 12 years old" << endl;
         break;
     case 18:
-        cout << "you are 18 years old"<<endl;
+        cout << "you are 18 years old" << endl;
 
     default:
         cout << "you are neither 12 nor 18 years old";

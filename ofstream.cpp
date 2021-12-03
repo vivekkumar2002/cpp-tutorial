@@ -1,17 +1,16 @@
-#include<iostream>
-#include<fstream>
+#include <iostream>
+#include <fstream>
 
 using namespace std;
 
-int main(){
+int main()
+{
     ofstream hout("samplefile.txt");
-    cout<<"enter your name"<<endl;
+    cout << "enter your name" << endl;
     string name;
-    cin>>name;
-    hout<<"my name is "+ name;
+    cin >> name;
+    hout << "my name is " + name;
     hout.close();
-    
-
 
     // ifstream hin("samplefile.txt");
     // string content;
